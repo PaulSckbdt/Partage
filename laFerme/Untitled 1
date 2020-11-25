@@ -1,0 +1,26 @@
+L'eleveur ne vend une volaille que si elle depasse le poids 
+d'abattage de son type.
+L'éleveur demande une application pour gérer les opérations 
+suivantes :
+- ajouter une volaille. ok
+- ajouter un paon. ok
+- modifier poids abattage. ok
+- modifier prix du jour. ok
+- modifier poids d'une volaille.ok
+- voir le nombre de volailles par type. ok
+- voir le total de prix des volailles abattables. ok
+- voir toutes les volailles. ok
+- vendre une volaille.
+- rendre un paon au parc.
+
+L'application doit être facilement modifiable si on décide 
+d'ajouter un autre type à plume abattable 
+comme les canards ou un type non abattable comme les paons.
+Essayer d'utiliser, si possible !! :
+- attribut final
+- attribut de classe
+- constante final + static
+- classe finale
+- classe abstraite
+- interface
+- méthode abstraite dans une classe abstraite
